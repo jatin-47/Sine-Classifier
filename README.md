@@ -38,6 +38,7 @@ Mean Squared Error (MSE)
 Some good resources:- 
 - [Neural networks playlist by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+- [The Vanishing Gradient Problem](https://towardsdatascience.com/the-vanishing-gradient-problem-69bf08b15484)
 
 ## Results:
 <img src="https://github.com/jatin-47/Sine-Classifier/blob/main/Images/Classified_points_NN.png" align="right" style="display:inline;" width="420" >
