@@ -16,7 +16,7 @@ Random points are generated for train and test set and are saved in ``training_s
 * Test data:
   - Shown in  **YELLOW**.
 
-<br><br><br><br>
+<br><br>
 
 ## Neural Network:
 <img src="https://github.com/jatin-47/Sine-Classifier/blob/main/Images/NN.png" align="right" style="display:inline;" width="480" >
@@ -39,7 +39,7 @@ Some good resources:-
 - [Neural networks playlist by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 
-<br><br>
+<br>
 
 ## Results:
 <img src="https://github.com/jatin-47/Sine-Classifier/blob/main/Images/Classified_points_NN.png" align="right" style="display:inline;" width="450" >
