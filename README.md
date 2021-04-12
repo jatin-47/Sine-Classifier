@@ -47,8 +47,27 @@ Some good resources:-
   - Points in **BLUE** are classified into **Label 0 (GREEN)**.
 
 &nbsp; &nbsp; <img src="https://github.com/jatin-47/Sine-Classifier/blob/main/Images/Classified_points_NN_result.png" width="350" >
+<br>
 
+<hr>
 
+# Regression Approach:
+
+Apart from this neural network classification which is more general, I tried classification using regression also.<br>
+I assumed a general sine curve : **y = Amplitude * sin(freq * x + Phase) + Offset** <br>
+And then based on these 4 parameters, tried to fit this graph according to the points given.<br>
+
+## Results:
+<img src="https://github.com/jatin-47/Sine-Classifier/blob/main/Images/Classified_points_reg.png" align="right" style="display:inline;" width="420" >
+
+* Graph in **WHITE** is the fitted graph with the predicted 4 parameters.
+
+* Test data:
+  - Points in **PINK** are classified into **Label 1 (RED)**.
+  - Points in **BLUE** are classified into **Label 0 (GREEN)**.
+
+&nbsp; &nbsp; <img src="https://github.com/jatin-47/Sine-Classifier/blob/main/Images/Classified_points_reg_result.png" width="350" >
+<br>
 
 
 
