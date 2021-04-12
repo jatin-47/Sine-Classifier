@@ -16,6 +16,8 @@ Random points are generated for train and test set and are saved in ``training_s
 * Test data:
   - Shown in  **YELLOW**.
 
+<br>
+
 ## Neural Network:
 <img src="https://github.com/jatin-47/Sine-Classifier/blob/main/Images/NN.png" align="right" style="display:inline;" width="480" >
 
