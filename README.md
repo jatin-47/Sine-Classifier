@@ -52,7 +52,7 @@ Some good resources:-
 
 <hr>
 
-# Regression Approach:
+# Regression Approach (Classification using Logistic Regression):
 
 Apart from this neural network classification which is more general, I tried classification using regression also.<br>
 I assumed a general sine curve : **y = Amplitude * sin(freq * x + Phase) + Offset** <br>
